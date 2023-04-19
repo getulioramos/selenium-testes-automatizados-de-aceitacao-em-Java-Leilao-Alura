@@ -6,6 +6,7 @@
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Conclusão](#conclusão)
 
 # 💻 Descrição do Projeto 💻
@@ -25,6 +26,11 @@ Finalizado
 
 # PessoasContribuidoras
  Realizei este projeto auxiliado pelas aulas e professores da Alura.
+ 
+ # Tecnologias Utilizadas
+- Java
+- Selenium
+- JUnit
  
 # Conclusão
  Neste projeto aprendi automação de testes com o Selenmium WebDriver utilizando o Eclipse. Como mencionado na descrição do projeto aprendi a escrever testes de aceitação, simular um usuario navegando pela página desde o login até o cadastro dos leilões tudo isso tulizando boas maneira, utilizando o PageObject que representa as páginas e armazena toda a manipulação da API do Selemnium, mantendo a classe de teste somente com a API do JUnit e as chamadas para os métodos nos Page Objects.
